@@ -1,8 +1,7 @@
 <center><h3>EDGISTFY  TASK</h3></center>
 <b><p>To enter into the website user have to register by providing necessary details.Now user can Login<br>
 After successful login user will be redirected to home page. Home page displays all post in card view<br>
-Card header displays the name of the owner who post the message and footer contains TimeStamp<br>
-Functionality to like the post is also added</p></b>
+Card header displays the name of the owner who post the message and footer contains TimeStamp<br></p></b>
 
 <b>This is the first Page when site is opened</b>
 

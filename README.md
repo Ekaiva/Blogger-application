@@ -17,7 +17,7 @@ Functionality to like the post is also added</p></b>
 
 <h1>After successfull Login User will be redirected to main home page</h1>
 
-![alt text](https://user-images.githubusercontent.com/33172266/75627370-5fd7a480-5b84-11ea-9706-c7be4b5f6afa.png)
+![alt text](https://user-images.githubusercontent.com/33172266/75630212-8b1abd80-5b9d-11ea-8243-4f0ab2ecf2f1.png)
 
 <h2>This is the page where user can Post</h2>
 

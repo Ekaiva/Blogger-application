@@ -34,4 +34,12 @@ Functionality to like the post is also added</p></b>
 >>> app is running on localhost <br>
 >>> <a href="http://localhost:4000">http://localhost:4000</a>
 
+<h1>User collectioon in database looks like this</h1>
+
+![alt text](https://user-images.githubusercontent.com/33172266/75628966-d085bd80-5b92-11ea-9fe6-a4fce105d540.png)
+
+<h1>Post collectioon</h1>
+
+![alt text](https://user-images.githubusercontent.com/33172266/75628967-d380ae00-5b92-11ea-8472-eb51a477c194.png)
+
 <h2 style="color:red">Test the application</h2>
